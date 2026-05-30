@@ -4,8 +4,11 @@
 
 ---
 
-I build **robust backends** and clean interfaces. Passionate about REST APIs, clean architecture, and writing code that future-me won't hate.
-Currently deepening my skills in **Java Full Stack Development** and exploring modern backend patterns with Spring Boot. Based in India 🇮🇳
+- 🔨 I build **robust backends** and clean interfaces focused on REST APIs and clean architecture
+- 🌱 Currently deepening my skills in **Java Full Stack Development** and Spring Boot patterns
+- 💡 Passionate about writing code that is scalable, maintainable, and future-proof
+- 🎓 B.Tech in Computer Technology
+- 📍 Based in Nagpur, India 🇮🇳
 
 ---
 
@@ -28,7 +31,7 @@ Currently deepening my skills in **Java Full Stack Development** and exploring m
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [PGLife](https://github.com/Arpan-Multeli/pglife_app) | Full-stack PG rental platform with browsing, booking & payments | React, Spring Boot, MySQL, Razorpay |
+| [PGLife](https://github.com/Arpan-Multeli/pglife-app) | Full-stack PG rental platform with browsing, booking & payments | React, Spring Boot, MySQL, Razorpay |
 | [Emergency Medical QR](https://github.com/Arpan-Multeli/EmergencyMedicalQRSystem) | Registers patients & generates QR codes for quick medical access | Spring Boot, MySQL, ZXing, JS |
 
 ---
