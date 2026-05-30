@@ -1,11 +1,11 @@
 # Hey, I'm [Arpan Multeli](https://github.com/Arpan-Multeli) 👋
 
-**Full-Stack Developer · Java & Spring Boot · B.Tech @ RTM Nagpur University**
+**Full-Stack Developer · Java & Spring Boot · B.Tech**
 
 ---
 
 I build **robust backends** and clean interfaces. Passionate about REST APIs, clean architecture, and writing code that future-me won't hate.
-Currently deepening my skills in **Java Full Stack Development** and exploring modern backend patterns with Spring Boot. Based in Nagpur, India 🇮🇳
+Currently deepening my skills in **Java Full Stack Development** and exploring modern backend patterns with Spring Boot. Based in India 🇮🇳
 
 ---
 
@@ -27,8 +27,8 @@ Currently deepening my skills in **Java Full Stack Development** and exploring m
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpan_Multeli&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan_Multeli&layout=compact&theme=default&hide_border=true" height="150" />
+  ![Arpan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpan-Multeli&show_icons=true&hide_border=true&count_private=true&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Multeli&layout=compact&hide_border=true&theme=dark)
 </p>
 
 ---
@@ -37,7 +37,7 @@ Currently deepening my skills in **Java Full Stack Development** and exploring m
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [PGLife](https://github.com/Arpan-Multeli/pglife) | Full-stack PG rental platform with browsing, booking & payments | React, Spring Boot, MySQL, Razorpay |
+| [PGLife](https://github.com/Arpan-Multeli/pg_life) | Full-stack PG rental platform with browsing, booking & payments | React, Spring Boot, MySQL, Razorpay |
 | [Emergency Medical QR](https://github.com/Arpan-Multeli/emergency-medical-qr) | Registers patients & generates QR codes for quick medical access | Spring Boot, MySQL, ZXing, JS |
 
 ---
