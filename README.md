@@ -24,21 +24,12 @@ Currently deepening my skills in **Java Full Stack Development** and exploring m
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  ![Arpan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpan-Multeli&show_icons=true&hide_border=true&count_private=true&theme=dark)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Multeli&layout=compact&hide_border=true&theme=dark)
-</p>
-
----
-
 ### 📌 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [PGLife](https://github.com/Arpan-Multeli/pg_life) | Full-stack PG rental platform with browsing, booking & payments | React, Spring Boot, MySQL, Razorpay |
-| [Emergency Medical QR](https://github.com/Arpan-Multeli/emergency-medical-qr) | Registers patients & generates QR codes for quick medical access | Spring Boot, MySQL, ZXing, JS |
+| [PGLife](https://github.com/Arpan-Multeli/pglife_app) | Full-stack PG rental platform with browsing, booking & payments | React, Spring Boot, MySQL, Razorpay |
+| [Emergency Medical QR](https://github.com/Arpan-Multeli/EmergencyMedicalQRSystem) | Registers patients & generates QR codes for quick medical access | Spring Boot, MySQL, ZXing, JS |
 
 ---
 
